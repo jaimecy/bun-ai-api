@@ -1,15 +1,27 @@
-# api
+# bun-ai-api
 
-To install dependencies:
+API de IA
+
+## Instalación
+
+Para instalar las dependencias:
 
 ```bash
 bun install
 ```
 
-To run:
+## Ejecución
+
+Para ejecutar el servidor:
 
 ```bash
 bun run index.ts
 ```
 
-This project was created using `bun init` in bun v1.3.5. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+O en modo desarrollo:
+
+```bash
+bun run dev
+```
+
+Este proyecto fue creado usando `bun init` en bun v1.3.5. [Bun](https://bun.com) es un runtime JavaScript rápido todo-en-uno.
